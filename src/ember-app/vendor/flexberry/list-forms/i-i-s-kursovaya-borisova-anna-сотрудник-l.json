@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-borisova-anna-сотрудник-e",
+  "editForm": "i-i-s-kursovaya-borisova-anna-сотрудник-e",
+  "external": false,
+  "caption": "Сотрудник",
+  "name": "IISKursovaya_Borisova_annaсотрудникL",
+  "className": "сотрудникL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-borisova-anna-сотрудник",
+      "modelProjection": "сотрудникL"
+    }
+  ]
+}

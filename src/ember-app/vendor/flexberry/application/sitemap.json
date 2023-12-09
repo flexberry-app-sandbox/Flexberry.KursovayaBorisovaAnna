@@ -1,0 +1,89 @@
+﻿{
+  "applicationCaption": "Kursovaya_ borisova_anna",
+  "applicationTitle": "Kursovaya_ borisova_anna",
+  "items": [
+    {
+      "link": null,
+      "menuName": "создать-визит",
+      "caption": "Создать визит",
+      "title": "Создать визит",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-визит-l",
+          "menuName": null,
+          "caption": "Создать визит",
+          "title": "Визит",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочник-сотрудники",
+      "caption": "Справочник сотрудники",
+      "title": "Справочник сотрудники",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-сотрудник-l",
+          "menuName": null,
+          "caption": "сотрудники",
+          "title": "Сотрудник",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "Должности",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "товары",
+      "caption": "Товары",
+      "title": "Товары",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-товар-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "Товар",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "клиенты",
+      "caption": "Клиенты",
+      "title": "Клиенты",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-клиент-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "Клиент",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "услуги",
+      "caption": "Услуги",
+      "title": "Услуги",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-borisova-anna-услуга-l",
+          "menuName": null,
+          "caption": "Услуги",
+          "title": "Услуга",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,10 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya_Borisova_anna",
+  "className": "Единицы",
+  "enumObjects": {
+    "Шт": "Шт",
+    "Грамм": "Грамм",
+    "Литров": "Литров",
+    "Мл": "Мл"
+  }
+}

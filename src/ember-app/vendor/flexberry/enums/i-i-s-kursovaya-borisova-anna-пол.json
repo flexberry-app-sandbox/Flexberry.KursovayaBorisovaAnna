@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya_Borisova_anna",
+  "className": "Пол",
+  "enumObjects": {
+    "Женский": "Женский",
+    "Мужской": "Мужской"
+  }
+}
